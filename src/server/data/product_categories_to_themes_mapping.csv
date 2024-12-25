@@ -1,0 +1,361 @@
+RGS Product Category,Technology Innovation,Automation/Robotics
+Game Software Products and Related Services,TRUE,FALSE
+Audio Streaming Services,TRUE,FALSE
+Video Content Production and Distribution Services,FALSE,FALSE
+Live Events Entertainment,FALSE,FALSE
+Music Publishing,FALSE,FALSE
+Stored Entertainment Media,FALSE,FALSE
+"Websites, Apps, and Online Platforms & Services",TRUE,FALSE
+Search Engines,TRUE,FALSE
+Marketing and Sales,FALSE,FALSE
+Book Publishing,FALSE,FALSE
+News Publishing,FALSE,FALSE
+Wireless and Broadband Telecommunication Services,FALSE,FALSE
+EV Chargers,FALSE,FALSE
+Automotive Rubber Products,FALSE,FALSE
+Automobiles and Related Parts,TRUE,FALSE
+Marine Vehicles and Parts,FALSE,FALSE
+Mobility Solutions,FALSE,FALSE
+Other Vehicles,FALSE,FALSE
+Bicycles and Related Parts,FALSE,FALSE
+"Motorcycles, Scooters, and Related Parts",FALSE,FALSE
+Agricultural Fabrics,FALSE,FALSE
+Industrial and Engineering Textiles,FALSE,FALSE
+Unprocessed Textiles,FALSE,FALSE
+Gaming Hardware Products,FALSE,FALSE
+Cameras and Projectors,TRUE,TRUE
+Wearable Devices and Home Entertainment Electronics,TRUE,FALSE
+"Interior, Furnishings and Decor",FALSE,FALSE
+Major Domestic Appliances,FALSE,FALSE
+Small Domestic Appliances,FALSE,FALSE
+Water Appliances,FALSE,FALSE
+Kitchenwares,FALSE,FALSE
+Housewares,FALSE,FALSE
+"Board Games, Dolls, and Toys",FALSE,FALSE
+Hobby and Leisure Products,FALSE,FALSE
+"Sports, Hunting and Fishing Equipment",FALSE,FALSE
+Bags and Fashion Accessories,FALSE,FALSE
+Apparel,FALSE,FALSE
+Watches and Jewellery,FALSE,FALSE
+Footwear,FALSE,FALSE
+Bookshops and Libraries,FALSE,FALSE
+Education and Education Services,FALSE,FALSE
+Cleaning Services,FALSE,FALSE
+Design Services,FALSE,FALSE
+Food Services,FALSE,FALSE
+Legal Services,FALSE,FALSE
+Other Consumer Services,FALSE,FALSE
+Cruise Lines,FALSE,FALSE
+Hotels,FALSE,FALSE
+Travel Support Services,FALSE,FALSE
+Amusement and Theme Parks,FALSE,FALSE
+Leisure Facilities,FALSE,FALSE
+Gambling,FALSE,FALSE
+Bars and Pubs,FALSE,FALSE
+Cafes and Coffee Houses,FALSE,FALSE
+Quick Service Restaurants and Takeaways,FALSE,FALSE
+Restaurant Support Services,FALSE,FALSE
+Restaurants,FALSE,FALSE
+Consumer Goods Distribution,FALSE,FALSE
+Apparel Retail,FALSE,FALSE
+Automobile Maintenance and Repair Services,FALSE,FALSE
+Automotive Retail,FALSE,FALSE
+Bike Maintenance and Repair Services,FALSE,FALSE
+Vehicle Refueling Services,FALSE,FALSE
+Computer and Electronics Retail,FALSE,FALSE
+Home Furnishing Retail,FALSE,FALSE
+Home Improvement Retail,FALSE,FALSE
+Luxury and Speciality Stores,FALSE,FALSE
+Drug Retail,FALSE,FALSE
+Food Distribution,FALSE,FALSE
+Food Retail,FALSE,FALSE
+Liqour Retail,FALSE,FALSE
+General Retail,FALSE,FALSE
+"Beers, Ciders, and Lagers",FALSE,FALSE
+Spirits,FALSE,FALSE
+Wine,FALSE,FALSE
+Soft Drinks,FALSE,FALSE
+Agricultural Produce Processing and Storage,TRUE,TRUE
+Agricultural Support Services,FALSE,FALSE
+Animal Feed,FALSE,FALSE
+Fruit and Vegetable Production,FALSE,FALSE
+Grain Production,FALSE,FALSE
+Industrial Crops,FALSE,FALSE
+Fishing and Aquaculture,FALSE,FALSE
+Livestock and Meat Production,FALSE,FALSE
+Oil Seeds Production,FALSE,FALSE
+Bakery Products,FALSE,FALSE
+Composite and Highly Processed Foods,FALSE,FALSE
+Dairy and Eggs,FALSE,FALSE
+Edible Oils,FALSE,FALSE
+Fish and Seafood,FALSE,FALSE
+"Fruit, Vegetables and Legumes",FALSE,FALSE
+Food Ingredients,FALSE,FALSE
+Meat and Poultry,FALSE,FALSE
+Pet Food,FALSE,FALSE
+Snacks,FALSE,FALSE
+Combustible Tobacco Products,FALSE,FALSE
+Non-Combustible Tobacco Products,FALSE,FALSE
+"Laundry, Dish and Home Care Products",FALSE,FALSE
+Pet Care Products and Services,FALSE,FALSE
+Tissue Products,FALSE,FALSE
+Baby Care Products,FALSE,FALSE
+Beauty Care Products,FALSE,FALSE
+Personal Care Products,FALSE,FALSE
+Sanitary and Incontinence Products,FALSE,FALSE
+Oil and Gas Equipment,FALSE,FALSE
+Oil and Gas Services,FALSE,FALSE
+Biofuels and Other Renewable Fuels,FALSE,FALSE
+Coal Fuel,FALSE,FALSE
+Chemically Synthesized Fuels,FALSE,FALSE
+Processed Nuclear Fuels,FALSE,FALSE
+Refined Fuel Gases,FALSE,FALSE
+Refined Fuel Oils,FALSE,FALSE
+Conventional Crude Oil Deposits,FALSE,FALSE
+Natural Gas Deposits,FALSE,FALSE
+Unconventional Oil and Gas Deposits,FALSE,FALSE
+Liquefied Petroleum Gas (LPG),FALSE,FALSE
+Lubricating Oil and Grease,FALSE,FALSE
+Natural Gas Liquids,FALSE,FALSE
+Petroleum,FALSE,FALSE
+Oil and Gas Storage,FALSE,FALSE
+Oil and Gas Transportation,FALSE,FALSE
+Investment and Investment Advisory Services,FALSE,FALSE
+"Financial Data, ESG, and Corporate Ratings",FALSE,FALSE
+Financial Exchanges,FALSE,FALSE
+Financial Indices,FALSE,FALSE
+Corporate and Commercial Banking Services,FALSE,FALSE
+Investment Banking Services,FALSE,FALSE
+Sales and Trading,FALSE,FALSE
+Credit Cards,FALSE,FALSE
+Loans and Lending Excluding Credit Cards,FALSE,FALSE
+Specialized Finance Institutions and Services,FALSE,FALSE
+"Checking, Savings Accounts, and Certificates of Deposit",FALSE,FALSE
+"Mortgage Acquisition, Origination, Securitization and Services",FALSE,FALSE
+"Insurance Brokerage, Consulting, and Other Related Services",FALSE,FALSE
+Life and Health Insurance,FALSE,FALSE
+Multi-line Insurance,FALSE,FALSE
+Other Insurance,FALSE,FALSE
+Property and Casualty Insurance,FALSE,FALSE
+Reinsurance,FALSE,FALSE
+Diagnostic Equipment,TRUE,FALSE
+Life Sustaining and Supporting Equipment,FALSE,FALSE
+Veterinary Equipment,FALSE,FALSE
+"Dental, Sight, and Hearing Care",FALSE,FALSE
+Diagnostic Consumables,TRUE,FALSE
+General Hospital Supplies,FALSE,FALSE
+Personal Health Care,FALSE,FALSE
+Surgical Supplies and Non-essential Treatment,FALSE,FALSE
+Health Care Distributors,FALSE,FALSE
+Health Care Provision Services,FALSE,FALSE
+Welfare and Social Care Services,FALSE,FALSE
+Health Care Support Services,FALSE,FALSE
+Veterinary Services,FALSE,FALSE
+Health Care Technology,TRUE,FALSE
+Biopharmaceuticals and Antibody Therapy,FALSE,FALSE
+Gene Therapy and Personalized Medicine,TRUE,FALSE
+Rare or Specialist Treatments,FALSE,FALSE
+"Research Equipment, Supplies and Manufacturing",TRUE,TRUE
+Cancer Treatments,FALSE,FALSE
+Cardiovascular Drugs,FALSE,FALSE
+Clinical Nutrition,FALSE,FALSE
+Clinical Painkillers and Opiates,FALSE,FALSE
+Consumer Painkillers,FALSE,FALSE
+Dietary Supplements and Specialized Nutrition,FALSE,FALSE
+Essential Abdominal Health Treatments,FALSE,FALSE
+Immunology Treatments,FALSE,FALSE
+Infectious Disease Treatments,FALSE,FALSE
+Metabolics and Hormonal Therapy Drugs,FALSE,FALSE
+Active Pharmaceutical Ingredients and Drug Delivery,FALSE,FALSE
+Psychiatric Treatments,FALSE,FALSE
+Respiratory Treatments,FALSE,FALSE
+Stomach and Gut Health Treatments,FALSE,FALSE
+Vaccines,FALSE,FALSE
+Veterinary Drugs,FALSE,FALSE
+Civilian Aerospace,TRUE,TRUE
+Military and Defense,TRUE,TRUE
+"Entrances, Doors, and Locks",FALSE,FALSE
+Glass,FALSE,FALSE
+"Heating, Ventilation, and Air Conditioning",FALSE,FALSE
+Lighting Fixtures and Wiring,FALSE,FALSE
+Sanitary and Plumbing,FALSE,FALSE
+Commercial Property Engineering and Construction,FALSE,FALSE
+"Infrastructure and Civil Engineering, and Construction",FALSE,FALSE
+Property and Infrastructure Maintenance,FALSE,FALSE
+Residential Property Engineering and Construction,FALSE,FALSE
+Electrical Components and Equipment,TRUE,TRUE
+Wires,FALSE,FALSE
+Generators and Power Turbines,FALSE,FALSE
+Transformers and Other Heavy Electrical Equipment,FALSE,FALSE
+Wind Turbines,FALSE,FALSE
+Industrial Conglomerates,FALSE,FALSE
+Agricultural and Farm Vehicle and Parts,TRUE,TRUE
+Landscaping Vehicles and Equipment,FALSE,FALSE
+Agricultural Tools and Supplies,TRUE,TRUE
+Boats and Shipbuilding,FALSE,FALSE
+Buses,FALSE,FALSE
+Engines and Vehicle Turbines,FALSE,FALSE
+Heavy Duty Vehicles,FALSE,FALSE
+Light Construction Vehicles,FALSE,FALSE
+Trams and Trains,FALSE,FALSE
+Gas Compression and Vacuum Production,FALSE,FALSE
+General Manufacturing Parts,FALSE,FALSE
+"Industrial Automation, Robotics, and Discrete Automation",TRUE,TRUE
+Industrial Machinery,TRUE,TRUE
+Industrial Refrigeration,FALSE,FALSE
+Industrial Tools,TRUE,TRUE
+Metal Manipulation Machinery,TRUE,TRUE
+Other Materials Handling Machinery,TRUE,TRUE
+Plastic Shaping Machinery,TRUE,TRUE
+"Valves, Fittings, and Pumping Equipment",FALSE,FALSE
+Trading Companies and Distributors,FALSE,FALSE
+Commercial Printing and Photocopying,FALSE,FALSE
+Laminating and Plastic Printing Services,FALSE,FALSE
+Commercial Business Support Services,FALSE,FALSE
+Equipment Repair Services,FALSE,FALSE
+Fire Safety Products and Services,FALSE,FALSE
+Surplus Supplies and Auctioneering,FALSE,FALSE
+Uniform Rental Services,FALSE,FALSE
+Environmental Conservation and Restoration,FALSE,FALSE
+Pest Control,FALSE,FALSE
+Waste Management Services,FALSE,FALSE
+Alarms and Property Security,FALSE,FALSE
+Correctional Facilities,FALSE,FALSE
+Guarding and Armoured Transportation Services,FALSE,FALSE
+Investigation and Private Security Services,FALSE,FALSE
+Port and Border Security Services,FALSE,FALSE
+Private Policing,FALSE,FALSE
+Wildlife Protection and Ranger Services,FALSE,FALSE
+Human Resource and Employment Services,FALSE,FALSE
+Accounting Services,FALSE,FALSE
+Architectural Design Services,FALSE,FALSE
+Business and Management Consulting,FALSE,FALSE
+Commercial Research and Development,TRUE,FALSE
+Corporate Legal Services,FALSE,FALSE
+"Engineering, Technical Consulting, and Industrial Design Services",TRUE,TRUE
+Environmental Consultancy,FALSE,FALSE
+Graphic Design and User Experience Services,FALSE,FALSE
+Other Business Support Services,FALSE,FALSE
+"Office Supplies, Furniture and Services",FALSE,FALSE
+Air Logistics and Cargo Flights,FALSE,FALSE
+"Courier, Mail, and Last-Mile Delivery",FALSE,FALSE
+Storage and Warehousing Services,FALSE,FALSE
+Supply Chain Management Services,FALSE,FALSE
+Passenger Airlines,FALSE,FALSE
+Private Flights,FALSE,FALSE
+Ocean Logistics,FALSE,FALSE
+Passenger Ferries,FALSE,FALSE
+Rail Freight Transportation,FALSE,FALSE
+Rail Passenger Transportation,FALSE,FALSE
+Bike and eScooter Rental Services,FALSE,FALSE
+Car and LGV Rental,FALSE,FALSE
+HGV Rental,FALSE,FALSE
+Road Logistics,FALSE,FALSE
+Taxis and Carshare Services,FALSE,FALSE
+"Tram, Bus, and Coach Services",FALSE,FALSE
+Airport Services,FALSE,FALSE
+Highways and Autoroute Services,FALSE,FALSE
+Railroads and Rail Services,FALSE,FALSE
+Marine Ports and Services,FALSE,FALSE
+Semiconductor Manufacturing Machinery,TRUE,TRUE
+Solar Panels and Photovoltaics,FALSE,FALSE
+Semiconductors and Related Components,TRUE,TRUE
+Cloud Storage and Computing Solutions,TRUE,TRUE
+Digital Payment Solutions and Related Services,TRUE,FALSE
+Financial Data Processing and Analytics Software Solutions,TRUE,FALSE
+Internet Service Providers,TRUE,FALSE
+IT Consulting Services,TRUE,FALSE
+IT Outsourcing and Maintenance Services,TRUE,TRUE
+Design and Engineering Simulation Software Solutions,TRUE,TRUE
+Enterprise Software Solutions,TRUE,TRUE
+Public Sector Software Solutions,TRUE,TRUE
+Operating Systems,TRUE,FALSE
+Security Software Solutions,TRUE,FALSE
+Landline Telephones,FALSE,FALSE
+Network Switch,TRUE,FALSE
+Radios and Other Communications Equipment,FALSE,FALSE
+Routers and Modems,TRUE,FALSE
+Software and Media Reproducing Equipment,TRUE,FALSE
+Switchboard Operators and Telephone Exchanges,FALSE,FALSE
+Circuit Components,TRUE,TRUE
+Hydrogen Fuel Cells,FALSE,FALSE
+Sensors,TRUE,TRUE
+Single-Use Batteries,FALSE,FALSE
+Rechargeable Batteries,TRUE,FALSE
+At-Home Electrical Instruments,FALSE,FALSE
+ATMs and Vending Machines,FALSE,FALSE
+Barcode and QR Code Scanners,TRUE,TRUE
+Industrial and Commercial Lasers,TRUE,TRUE
+Industrial Diagnostic Gauges,TRUE,TRUE
+Other Electrical Instruments,FALSE,FALSE
+Hardware and Software Distributors,TRUE,FALSE
+Computer Parts and Hardware Peripherals,TRUE,TRUE
+Computers and Tablets,TRUE,TRUE
+Mobile Phones,TRUE,FALSE
+Printers and Related Supplies,FALSE,FALSE
+"Servers, Mainframes, and High-Performance Computers",TRUE,TRUE
+Chemical Components,FALSE,FALSE
+Demolitions and Mining Explosives,FALSE,FALSE
+"Paints, Pigments, and Coatings",FALSE,FALSE
+Plastics and Petrochemicals,FALSE,FALSE
+Synthetic Materials,FALSE,FALSE
+Chemical Engineering,FALSE,FALSE
+Fertilizers,FALSE,FALSE
+"Biopesticides, Animal Hormones, and Other Agrichemicals",FALSE,FALSE
+Pesticides,FALSE,FALSE
+Gases Distilled From Air,FALSE,FALSE
+Hydrogen and Ammonia,FALSE,FALSE
+Refrigerants and Other Industrial Gases,FALSE,FALSE
+Steam,FALSE,FALSE
+Enzymes and Biochemicals,FALSE,FALSE
+Fine Chemicals,FALSE,FALSE
+"Bricks, Clay, and Clay Derivatives",FALSE,FALSE
+"Cement, Concrete, and Cement Derivatives",FALSE,FALSE
+Construction Metals,FALSE,FALSE
+Insulation Products,FALSE,FALSE
+Refractory Minerals,FALSE,FALSE
+Road Building Materials,FALSE,FALSE
+Sand and Gravel,FALSE,FALSE
+Wood Construction Products,FALSE,FALSE
+Glass Packaging and Containers,FALSE,FALSE
+Metal Packaging and Containers,FALSE,FALSE
+Plastic Packaging and Containers,FALSE,FALSE
+Wood and Paper Packaging,FALSE,FALSE
+Aluminum and Aluminum Ore,FALSE,FALSE
+"Copper, Copper Ore and Copper Alloys",FALSE,FALSE
+Diversified Mining,FALSE,FALSE
+Diversified Refining and Alloying,FALSE,FALSE
+Mining Support Services,FALSE,FALSE
+Gold and Gold Ore,FALSE,FALSE
+Other Metals,FALSE,FALSE
+Precious Minerals,FALSE,FALSE
+"Precious, Radioactive, and Rare-Earth Metals",FALSE,FALSE
+Silver and Silver Ore,FALSE,FALSE
+Steel and Related Products,FALSE,FALSE
+Steel Related Services,FALSE,FALSE
+Zinc and Zinc Ore,FALSE,FALSE
+Forest Products and Services,FALSE,FALSE
+Logging,FALSE,FALSE
+Paper and Related Products,FALSE,FALSE
+"Health Care Property Acquisition, Development, Leasing and Management",FALSE,FALSE
+"Hotel and Resort Acquisition, Development, Leasing and Management",FALSE,FALSE
+"Industrial Property Acquisition, Development, Leasing and Management",FALSE,FALSE
+"Office Acquisition, Development, Leasing and Management",FALSE,FALSE
+"Residential Property Acquisition, Development, Leasing and Management",FALSE,FALSE
+"Retail Property Acquisition, Development, Leasing and Management",FALSE,FALSE
+"Specialized Property Acquisition, Development, Leasing and Management",FALSE,FALSE
+Real Estate Services,FALSE,FALSE
+Electrical Utilities With Greenhouse Gas Emissions,FALSE,FALSE
+Electrical Utilities Without Greenhouse Gas Emissions,FALSE,FALSE
+"Power Distribution, Storage and Grid Maintenance",FALSE,FALSE
+"Gas Network Supply, Management, and Maintenance",FALSE,FALSE
+Diversified Utilities,FALSE,FALSE
+Wastewater Management,FALSE,FALSE
+Water Supply and Sourcing,FALSE,FALSE
+Eliminations,FALSE,FALSE
+Digital Goods and Services,TRUE,TRUE
+Online Marketplace,TRUE,FALSE
+Social Media,TRUE,FALSE
+Agritech,TRUE,TRUE
+Life Science Services,TRUE,TRUE
+Research Equipment and Supplies Manufacturing,TRUE,TRUE
